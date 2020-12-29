@@ -1,0 +1,7 @@
+Simply load the Large_Scale_Smoke.unity for an example scene, or drag the smoke effect from the Prefabs folder into the Hierarchy window.
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it on the Asset Store. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+
